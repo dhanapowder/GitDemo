@@ -1,0 +1,29 @@
+Hello
+
+Dhanashree is here
+Lets start to learn Github now
+
+>>For First time need to configure  github in our system
+git config --global user.name "dhanapowder" 
+git config --global user.email "dhanashreejadhav0406@gmail.com" 
+git config --global color.ui auto
+
+Mandatory Commands:
+>> git init
+>> git remote add origin https://github.com/dhanapowder/GitDemo.git
+
+git pull origin main
+git status
+
+git add .
+git status
+git commit -m "commit message"
+git push
+
+Create a new branch
+
+git checkout -b "branch Name"
+
+Switch the branch
+git checkout "branchNameWhichNeedsToBeOpened"
+
